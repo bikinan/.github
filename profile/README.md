@@ -8,7 +8,8 @@
 
 ### 🚀 What We Are Building
 
-* **[watch.bikinan.id](https://watch.bikinan.id)** — An all-in-one web monitoring platform designed to track website uptime, SSL certificate expiration, and domain WHOIS status in real-time with instant alerts.
+* **[watch.bikinan.id](https://watch.bikinan.id)** — An all-in-one web monitoring platform designed to track website uptime, SSL certificate expiration, and domain WHOIS status in real-time with instant alerts. (On Development)
+* **[catchbug.bikinan.id](https://catchbug.bikinan.id)** — Zero Friction Bug Reporting Extensions
 
 ---
 
@@ -19,6 +20,7 @@ We favor fast, memory-efficient, and easily scalable architecture:
 * **Languages & Runtimes:** Go, TypeScript / JavaScript (Node.js, Bun)
 * **Frontend Frameworks:** Vue.js, Nuxt.js, Tailwind CSS
 * **Backend Frameworks:** Chi (Go), Express.js, Elysia.js
+* **Web Extension Framework:** WXT
 * **Database & Caching:** PostgreSQL, Redis, Prisma ORM, Drizzle ORM
 * **DevOps & Infrastructure:** Docker, Cloudflare Pages, Edge Computing, Nginx
 
@@ -28,9 +30,8 @@ We favor fast, memory-efficient, and easily scalable architecture:
 
 We are always open to collaborations, bug reports, and pull requests on our open-source projects.
 
-* **Monitoring App:** [watch.bikinan.id](https://watch.bikinan.id) *(In Development)*
 * **Maintained By:** [@balramadan](https://github.com/balramadan)
-* **Contact & Inquiries:** contact@bikinan.id
+* **Contact & Inquiries:** support@bikinan.id
 
 ---
 
